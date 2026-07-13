@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "77111555-67b2-4a3c-bf1d-1321baa32049": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/250/678/original/2016_CLC_Kreisel_Lecture_with_Margaret_Atwood_%EF%BD%9C_The_Burgess_Shale__jM85Q28OSuc_.mp4?1726524080",
+      "duration": 6336.447,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-13T20:09:02.578Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 1 - 2016_CLC_Kreisel_Lecture_with_Margaret_Atwood_｜_The_Burgess_Shale__jM85Q28OSuc_.mp4",
+  "updated_at": "2026-07-13T20:09:02.578Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}

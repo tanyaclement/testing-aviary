@@ -1,0 +1,106 @@
+{
+  "event_id": "de858e8a-eb36-4ed9-bd29-e6cdd4aaf35a",
+  "source_id": "77111555-67b2-4a3c-bf1d-1321baa32049",
+  "set": " 2016 CLC Kreisel Lecture with Margaret Atwood - English [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 237,
+      "annotation": [
+        {
+          "text": "Introduction and Land Acknowledgment from CLC Communications Officer Jason Purcell"
+        }
+      ],
+      "tags": [],
+      "uuid": "dcdb7a67-836a-489f-ac53-60f3accc5279"
+    },
+    {
+      "start_time": 246,
+      "end_time": 480,
+      "annotation": [
+        {
+          "text": "Dean's Welcome - Lise Gotell"
+        }
+      ],
+      "tags": [],
+      "uuid": "27e8a1f0-8772-4e2e-ae27-5ad2c2a656c6"
+    },
+    {
+      "start_time": 491,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "text": "Dr. Marie Carrière introduces Margaret Atwood"
+        }
+      ],
+      "tags": [],
+      "uuid": "75d39968-2ec6-4d6d-b0cc-7e88d698f766"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "text": "The Burgess Shale: The Canadian Writing Landscape of the 1960s"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d3c3ad4-701a-40be-b159-96797cc27300"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 2715,
+      "annotation": [
+        {
+          "text": "Canadian Literary Culture in the 1970s"
+        }
+      ],
+      "tags": [],
+      "uuid": "4905148a-84b2-4086-8df1-a16f54520ae8"
+    },
+    {
+      "start_time": 2716,
+      "end_time": 3714,
+      "annotation": [
+        {
+          "text": "Canadian Identity After World War II"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a1527f8-27e5-4c71-9573-000845ce936d"
+    },
+    {
+      "start_time": 3715,
+      "end_time": 5515,
+      "annotation": [
+        {
+          "text": "Canadian Literary Culture of the 1960s"
+        }
+      ],
+      "tags": [],
+      "uuid": "772502a2-8d00-4e33-8c20-eaa06da2c1c5"
+    },
+    {
+      "start_time": 5516,
+      "end_time": 5688,
+      "annotation": [
+        {
+          "text": "Conclusion"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc75aa91-dbcd-4397-be71-e15bfcc883a0"
+    },
+    {
+      "start_time": 5689,
+      "end_time": 6336,
+      "annotation": [
+        {
+          "text": "Q & A"
+        }
+      ],
+      "tags": [],
+      "uuid": "7640e7f1-6238-47e7-bb7d-851e43688fc2"
+    }
+  ]
+}
