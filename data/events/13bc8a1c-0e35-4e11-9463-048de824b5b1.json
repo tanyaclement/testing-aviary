@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1329d1ed-96ca-41e1-8c2d-f7200308bcb7": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/250/680/original/2018_CLC_Kreisel_Lecture_with_Michael_Crummey_%EF%BD%9C_Most_of_What_Follows_is_True__W-22ipDZ60E_.mp4?1726524366",
+      "duration": 4522.063,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-13T20:21:15.153Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 1 - 2018_CLC_Kreisel_Lecture_with_Michael_Crummey_｜_Most_of_What_Follows_is_True__W-22ipDZ60E_.mp4",
+  "updated_at": "2026-07-13T20:21:15.153Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
