@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "8737bea5-fc17-4d38-8ff9-d09a971f6eef": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/250/679/original/2017_CLC_Kreisel_Lecture_with_Heather_O'Neill_%EF%BD%9C_My_Education__yY0tP6Uvhwg_.mp4?1726524173",
+      "duration": 4085.041,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-13T20:20:26.887Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 1 - 2017_CLC_Kreisel_Lecture_with_Heather_O'Neill_｜_My_Education__yY0tP6Uvhwg_.mp4",
+  "updated_at": "2026-07-13T20:20:26.887Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}

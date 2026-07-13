@@ -1,0 +1,62 @@
+{
+  "event_id": "699f7b65-27db-4901-a6ab-f5c750da8753",
+  "source_id": "8737bea5-fc17-4d38-8ff9-d09a971f6eef",
+  "set": "2017 CLC Kreisel Lecture with Heather O'Neill - English [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 144,
+      "annotation": [
+        {
+          "text": "Dean's Welcome - Lesley Cormack"
+        }
+      ],
+      "tags": [],
+      "uuid": "12daf72e-2c2c-4eec-b278-d9fa098154ed"
+    },
+    {
+      "start_time": 153,
+      "end_time": 306,
+      "annotation": [
+        {
+          "text": "Introduction from Acting CLC Director Daniel Laforest"
+        }
+      ],
+      "tags": [],
+      "uuid": "81eebb36-e919-4566-8c5d-ce4c3e3e997d"
+    },
+    {
+      "start_time": 307,
+      "end_time": 792,
+      "annotation": [
+        {
+          "text": "Dr. Kit Dobson introduces Heather O'Neill"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e203f43-7947-45cb-bc83-3cd08b9f2ff2"
+    },
+    {
+      "start_time": 808,
+      "end_time": 2932,
+      "annotation": [
+        {
+          "text": "Wisdom in Nonsense: Invaluable Lessons from My Father"
+        }
+      ],
+      "tags": [],
+      "uuid": "37eb77fb-2a8d-42b6-aa00-b5a9e7715e6c"
+    },
+    {
+      "start_time": 2952,
+      "end_time": 4085,
+      "annotation": [
+        {
+          "text": "Q&A"
+        }
+      ],
+      "tags": [],
+      "uuid": "196b6253-bdde-4cf8-930d-804887bd3c36"
+    }
+  ]
+}
